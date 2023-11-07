@@ -39,8 +39,8 @@ Display all the Transformed images.
 
 ## Program:
 
-Developed By: JEEVAGOWTHAM S
-Register Number:  212222230053
+Developed By: S VAISHNAV NANDA
+Register Number:  212222240112
 
 i)Image Translation:
 
